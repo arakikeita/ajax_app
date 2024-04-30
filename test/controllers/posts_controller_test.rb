@@ -24,3 +24,5 @@ class PostsControllerTest < Ac  # test "the truth" do
   #   assert true
   # end
 end
+
+#荒木敬太
