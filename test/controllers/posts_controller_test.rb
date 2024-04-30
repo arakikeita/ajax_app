@@ -24,3 +24,7 @@ class PostsControllerTest < Ac  # test "the truth" do
   #   assert true
   # end
 end
+class PostsControllerTest < Ac  # test "the truth" do
+  #   assert true
+  # end
+end
