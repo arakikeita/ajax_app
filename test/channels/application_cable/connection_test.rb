@@ -10,4 +10,5 @@ class ApplicationCable::ConnectionTest < ActionCable::Connection::TestCase
   # end
 
   #荒木敬太 topic
+  #リファクタリング
 end
