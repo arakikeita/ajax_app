@@ -8,13 +8,12 @@ require 'test_helper'
    # end
      # end
 
-class PostsControllerTest < ActionDispatch::IntegrationTest
- 
+class class1
   #   assert true
   # end
 end
 
-class PostsControllerTest < ActionDispatch::IntegrationTest
+class class2
  
   #   assert true
   # end
