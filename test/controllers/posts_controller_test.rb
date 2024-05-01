@@ -20,4 +20,11 @@ class PostsControllerTest < ActionDispatch::IntegrationTest
   # end
 end
 
+@Visiblefortesting
+class class3
+ 
+  #   assert true
+  # end
+end
+
 
