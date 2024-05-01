@@ -19,4 +19,9 @@ class PostsControllerTest < ActionDispatch::IntegrationTest
   # end
 end
 
+class class1 
+ 
+  #   assert true
+  # end
+end
 
