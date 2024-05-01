@@ -13,7 +13,7 @@ class class1
   # end
 end
 
-class PostsControllerTest < ActionDispatch::IntegrationTest
+class class2
  
   #   assert true
   # end
